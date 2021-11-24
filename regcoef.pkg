@@ -1,0 +1,10 @@
+v 1.0.0
+d 'REGCOEF': Relative importance of predictors
+d 
+d Stata module to compute coefficients for quantifying relative importance of predictors
+d 
+d Distribution-Date:   20211124
+d License: MIT
+d 
+F regcoef.ado
+F regcoef.sthlp
